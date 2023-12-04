@@ -1,4 +1,4 @@
-public class Firstjava {
+public class FirstJava {
     // Class-7(S-9)
     public static void main(String[] args) {
         //First java Programme
@@ -16,3 +16,4 @@ Unicode=Universal Code
 
     }
 }
+
