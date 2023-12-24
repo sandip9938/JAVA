@@ -20,13 +20,13 @@ public class Pratce1 {
 
         // 2.Calculate cgpa of three subject
 
-        Scanner sc = new Scanner(System.in);
+        Scanner Sc = new Scanner(System.in);
         System.out.println("Enter sub1 mark : ");
-        float sub1 = sc.nextFloat();
+        float sub1 = Sc.nextFloat();
         System.out.println("Enter sub2 mark : ");
-        float sub2 = sc.nextFloat();
+        float sub2 = Sc.nextFloat();
         System.out.println("Enter sub3 mark : ");
-        float sub3= sc.nextFloat();
+        float sub3= Sc.nextFloat();
         float  cgpa = (sub1+sub2+sub3)/30;
         System.out.println("Total cgpa is : " +cgpa);
 
